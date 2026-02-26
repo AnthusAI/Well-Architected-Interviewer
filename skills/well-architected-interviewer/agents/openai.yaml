@@ -1,0 +1,4 @@
+interface:
+  display_name: "Well-Architected Interviewer"
+  short_description: "Conduct Well-Architected interviews with Kanbus"
+  default_prompt: "Use -architected-interviewer to set up and run a Well-Architected audit."
